@@ -24,9 +24,12 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, c
 
 ## Reporting Issues
 
-You can report any code of conduct compliance issues by tweeting at [@TwitterOSS](https://twitter.com/twitteross)
+It's first recommend you speak with respective project leads and committers about the issue.
 
-If you prefer a more discreet route, please email [opensource+codeofconduct@twitter.com](mailto:opensource+codeofconduct@twitter.com)
+If that doesn't work:
+
+* You can report any code of conduct compliance issues by tweeting at [@TwitterOSS](https://twitter.com/twitteross)
+* If you prefer a more discreet route, please email [opensource+codeofconduct@twitter.com](mailto:opensource+codeofconduct@twitter.com)
 
 ## Thanks
 
