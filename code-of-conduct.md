@@ -22,6 +22,12 @@ Whenever any participant has made a mistake, we expect them to take responsibili
 
 Although this list cannot be exhaustive, we explicitly honor diversity in age, culture, ethnicity, genotype, gender identity or expression, language, national origin, neurotype, phenotype, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, subculture and technical ability.
 
+## Reporting Issues
+
+You can report any code of conduct compliance issues by tweeting at [@TwitterOSS](https://twitter.com/twitteross)
+
+If you prefer a more discreet route, please email [opensource+codeofconduct@twitter.com](mailto:opensource+codeofconduct@twitter.com)
+
 ## Thanks
 
 Some of the ideas and wording for the statements above were based on work by the [Python](http://www.python.org/community/diversity), [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct) and [Mozilla](https://wiki.mozilla.org/Code_of_Conduct/Draft) communities. We are thankful for their work.
